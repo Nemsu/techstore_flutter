@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id" : 1,
+            "name" : "Iphone 12 Pro",
+            "desc" :"Apple Iphone 12th generation",
+            "price" :999,
+            "color" :"#33505",
+            "image" :"https://cdn2.cellphones.com.vn/358x/media/catalog/product/p/h/photo_2020-10-13_22-12-24.jpg_1_2_2_3.png"
+        },
+        {
+            "id" : 2,
+            "name" : "Iphone 13 Pro",
+            "desc" :"Apple Iphone 12th generation",
+            "price" :524,
+            "color" :"#33505",
+            "image" :"https://cdn2.cellphones.com.vn/358x/media/catalog/product/p/h/photo_2020-10-13_22-12-24.jpg_1_2_2_3.png"
+        },
+        {
+            "id" : 3,
+            "name" : "Iphone 14 Pro",
+            "desc" :"Apple Iphone 12th generation",
+            "price" :615,
+            "color" :"#33505",
+            "image" :"https://cdn2.cellphones.com.vn/358x/media/catalog/product/p/h/photo_2020-10-13_22-12-24.jpg_1_2_2_3.png"
+        },
+        {
+            "id" : 4,
+            "name" : "Iphone 12 Pro",
+            "desc" :"Apple Iphone 12th generation",
+            "price" :196,
+            "color" :"#33505",
+            "image" :"https://cdn2.cellphones.com.vn/358x/media/catalog/product/p/h/photo_2020-10-13_22-12-24.jpg_1_2_2_3.png"
+        },
+        {
+            "id" : 5,
+            "name" : "Iphone 12 Pro",
+            "desc" :"Apple Iphone 12th generation",
+            "price" :999,
+            "color" :"#33505",
+            "image" :"https://cdn2.cellphones.com.vn/358x/media/catalog/product/p/h/photo_2020-10-13_22-12-24.jpg_1_2_2_3.png"
+        },
+        {
+            "id" : 6,
+            "name" : "Iphone 12 Pro",
+            "desc" :"Apple Iphone 12th generation",
+            "price" :999,
+            "color" :"#33505",
+            "image" :"https://cdn2.cellphones.com.vn/358x/media/catalog/product/p/h/photo_2020-10-13_22-12-24.jpg_1_2_2_3.png"
+        }
+    ]
+}
